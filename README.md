@@ -1,4 +1,4 @@
-<h1>Miami Condo kings</h1>
+<h1>Miami Condo kings</h1>.
 
 [TAP PREVIEW LINK TO SEE DEMO](https://zarva6596.github.io/layout_miami)
 <br>
